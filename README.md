@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-I am a full stack engineer based in Kampala, Uganda. I am currently engaged as an engineering fellow at [Qala](https://qala.dev) where I am learning daily about Bitcoin and Lightning and building exciting projects on this ecosystem. 
+Part of [Qala](https://qala.dev)'s genesis cohort. I am based in Kampala, Uganda and I am working full-time on open source Bitcoin projects. 
+
 
 #### Projects
+
+- **[EttaWallet](https://github.com/crukundo/EttaWallet)**: An open source Bitcoin/Lightning Wallet built on the contributions of the Bitcoin Design Community. 
 
 - **[Paywalled](https://github.com/crukundo/lnd-paywall/)**: A blogging platform powered by the Lightning network so content creators can earn through Bitcoin micropayments.
 
