@@ -15,7 +15,7 @@ Part of [Qala](https://qala.dev)'s genesis cohort. I am based in Kampala, Uganda
 
 I write occasionally about the projects I am working on and fascinating stuff I learn about on the Bitcoin ecosystem. Start here:
 
-- [I built a blogging platform powered by the Lightning Network](https://rukundo.mataroa.blog/blog/understanding-bitcoin-timelocks/)
+- [I built a blogging platform powered by the Lightning Network](https://rukundo.mataroa.blog/blog/i-built-a-blogging-platform-powered-by-the-lightning-network/)
 - [Understanding Bitcoin's transaction timelocks](https://rukundo.mataroa.blog/blog/understanding-bitcoin-timelocks/)
 
 You can find me on Twitter: **[@rukundo__](https://twitter.com/rukundo__)** or [Linkedin](https://www.linkedin.com/in/crukundo/)
