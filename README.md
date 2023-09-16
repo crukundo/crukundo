@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am currently working on / only interested in working on open-source Bitcoin/Lightning projects. 
+I am currently working on / only interested in working on open-source Bitcoin/Lightning projects. I am also a fellow with [BTrust Builders](https://builders.btrust.tech) currently helping educate the next generation of Bitcoin developers from Africa.
 
-#### Projects
+#### Current open-source projects
 
 - **[EttaWallet](https://github.com/EttaWallet/EttaWallet)**: A simple open-source self-custodial lightning wallet with a strong bias towards usability, accessibility and pretty good UX.
   
