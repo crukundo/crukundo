@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-Part of [Qala](https://qala.dev)'s genesis cohort. I am based in Kampala, Uganda and I am working full-time on open source Bitcoin projects. 
-
+I am currently working on / only interested in working on open-source Bitcoin/Lightning projects. 
 
 #### Projects
 
-- **[EttaWallet](https://github.com/crukundo/EttaWallet)**: An open source Bitcoin/Lightning Wallet built on the contributions of the Bitcoin Design Community. 
+- **[EttaWallet](https://github.com/EttaWallet/EttaWallet)**: A simple open-source self-custodial lightning wallet with a strong bias towards usability, accessibility and pretty good UX.
+  
+- **[BitcoinUI RN](https://github.com/EttaWallet/etta-ui)**: An implementation of [Bitcoin Design](https://bitcoin.design)'s **[UI Kit](https://www.bitcoinuikit.com)** for React Native projects. 
 
 - **[Paywalled](https://github.com/crukundo/lnd-paywall/)**: A blogging platform powered by the Lightning network so content creators can earn through Bitcoin micropayments.
 
@@ -15,7 +16,8 @@ Part of [Qala](https://qala.dev)'s genesis cohort. I am based in Kampala, Uganda
 
 I write occasionally about the projects I am working on and fascinating stuff I learn about on the Bitcoin ecosystem. Start here:
 
+- [Introducing EttaWallet](https://rukundo.mataroa.blog/blog/introducing-ettawallet/)
 - [I built a blogging platform powered by the Lightning Network](https://rukundo.mataroa.blog/blog/understanding-bitcoin-timelocks/)
 - [Understanding Bitcoin's transaction timelocks](https://rukundo.mataroa.blog/blog/understanding-bitcoin-timelocks/)
 
-You can find me on Twitter: **[@rukundo__](https://twitter.com/rukundo__)** or [Linkedin](https://www.linkedin.com/in/crukundo/)
+You can find me on Twitter: **[@rukundo__](https://twitter.com/rukundo__)** or Nostr: **npub1sxcs9lmljcngkylwh62ppuejsa68v7l5xpearthjwym20pq2ldvs9eryld**
